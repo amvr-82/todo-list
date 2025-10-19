@@ -45,6 +45,7 @@ li {
   justify-content: space-between;
   align-items: center;
   transition: background 0.3s;
+  word-break: break-all;
 }
 li.done {
   text-decoration: line-through;
