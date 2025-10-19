@@ -44,7 +44,7 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  transition: background 0.3s ease-in-out;
+  transition: background 0.3s ease-out;
   word-break: break-all;
 }
 li.done {
